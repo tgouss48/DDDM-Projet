@@ -1,0 +1,1 @@
+data/Morocco_Wildfire_Predictions.csv filter=lfs diff=lfs merge=lfs -text
